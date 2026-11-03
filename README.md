@@ -10,10 +10,6 @@ It works for websites, client portals, internal tools, apps and SaaS products. N
 
 <p align="center"><img src="assets/workflow.svg" alt="Six documents, then an HTML deck, then a PDF" width="100%"></p>
 
-| Watch the video |
-| :---: |
-| [![Watch the video](https://img.youtube.com/vi/hqhOmhOoFiQ/mqdefault.jpg)](https://www.youtube.com/watch?v=hqhOmhOoFiQ) |
-
 ## The six documents
 
 | # | Document | The question it answers |
@@ -26,6 +22,10 @@ It works for websites, client portals, internal tools, apps and SaaS products. N
 | 6 | Implementation plan | What gets built in what order, and where do you sign off? |
 
 Each document is built from the ones before it. At the end you get a six-box check you can use to decide whether building can start.
+
+| Watch the video |
+| :---: |
+| [![Watch the video](https://img.youtube.com/vi/hqhOmhOoFiQ/mqdefault.jpg)](https://www.youtube.com/watch?v=hqhOmhOoFiQ) |
 
 ## Quick start (about 10 minutes to set up)
 
