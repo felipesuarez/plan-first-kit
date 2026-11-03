@@ -10,6 +10,8 @@ It works for websites, client portals, internal tools, apps and SaaS products. N
 
 <p align="center"><img src="assets/workflow.svg" alt="Six documents, then an HTML deck, then a PDF" width="100%"></p>
 
+[![Watch the video](https://www.youtube.com/watch?v=hqhOmhOoFiQ)](https://www.youtube.com/watch?v=hqhOmhOoFiQ)
+
 ## The six documents
 
 | # | Document | The question it answers |
