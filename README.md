@@ -81,7 +81,7 @@ npm run pdf -- examples/tidewater-pottery
 
 ## Prefer not to use a terminal?
 
-There is a no-installation version that runs inside a Claude Project (or as a Claude Skill) and produces the same six documents and a printable deck. Get it at [felipesuarez.com](https://felipesuarez.com).
+There is a no-installation version that runs inside a Claude Project (or as a Claude Skill) and produces the same six documents and a printable deck. Get it at [https://by.felipesuarez.com/planfirst](https://by.felipesuarez.com/planfirst).
 <!-- TODO: replace with the dedicated email-capture subdomain URL for this kit -->
 
 ## Need a hand?
@@ -94,7 +94,7 @@ The kit is free and always will be. If you would rather not do it alone, I can h
 - **Done with you.** A planning sprint where I run the interviews with you and your team.
 - **Done for you.** I plan, build and manage the project for you and your team.
 
-**[Book a call with Felipe](https://tidycal.com/felipesuarez/)**: a short form first, so I come prepared.
+**[Book a call with Felipe](https://tidycal.com/felipesuarez/30-minute-discovery)**: a short form first, so I come prepared.
 
 If you want to learn the whole method on video, working through one project start to finish, the tutorial is coming soon.
 <!-- TODO: add the paid video tutorial link here -->
