@@ -81,7 +81,7 @@ npm run pdf -- examples/tidewater-pottery
 
 ## Prefer not to use a terminal?
 
-There is a no-installation version that runs inside a Claude Project (or as a Claude Skill) and produces the same six documents and a printable deck. Get it at [https://by.felipesuarez.com/planfirst](https://by.felipesuarez.com/planfirst).
+There is a no-installation version that runs inside a Claude Project (or as a Claude Skill) and produces the same six documents and a printable deck. Get it at [Plan First Skill](https://store.felipesuarez.com/plan-first-kit).
 <!-- TODO: replace with the dedicated email-capture subdomain URL for this kit -->
 
 ## Need a hand?
