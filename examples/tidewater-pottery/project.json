@@ -1,0 +1,11 @@
+{
+  "projectName": "Tidewater Pottery Studio",
+  "whatIsBeingBuilt": "A website where visitors book pottery classes, members manage their membership, and everyone can see when their pieces are ready to collect.",
+  "author": "Maren Holt, Owner",
+  "company": "Tidewater Pottery Studio (an invented example)",
+  "date": "2026-10-30",
+  "version": "1",
+  "logo": "",
+  "coverImage": "",
+  "brand": { "primary": "#1D4E63", "accent": "#C8654B" }
+}

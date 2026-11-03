@@ -1,0 +1,25 @@
+{
+  "name": "plan-first-kit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interview-driven workflow for Claude Code that produces six pre-build planning documents, an HTML deck and a PDF.",
+  "license": "MIT",
+  "author": "Felipe Suarez (https://felipesuarez.com)",
+  "scripts": {
+    "setup": "npx playwright install chromium",
+    "new": "node scripts/new-project.mjs",
+    "validate": "node scripts/validate.mjs",
+    "deck": "node scripts/build-deck.mjs",
+    "pdf": "node scripts/export-pdf.mjs",
+    "status": "node scripts/status.mjs",
+    "example": "node scripts/build-deck.mjs examples/tidewater-pottery"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "marked": "^18.1.2",
+    "playwright": "^1.64.1"
+  }
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" role="img" aria-label="Three ways to use the kit: on your own, done with you, done for you">
+  <rect width="1280" height="400" fill="#12263A"/>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="640" y="52" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="3" fill="#F4B942">THREE WAYS TO USE THE KIT</text>
+    <text x="640" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#fff">Free if you can. A hand if you want one.</text>
+    <g transform="translate(0,26)">
+    <g>
+      <rect x="60" y="150" width="360" height="200" rx="14" fill="#fff"/>
+      <rect x="460" y="120" width="360" height="230" rx="14" fill="#fff"/>
+      <rect x="860" y="90" width="360" height="260" rx="14" fill="#F4B942"/>
+    </g>
+    <g fill="#0E7C7B" font-size="13" font-weight="700" letter-spacing="2.5">
+      <text x="86" y="186">ON YOUR OWN</text><text x="486" y="156">DONE WITH YOU</text>
+    </g>
+    <text x="886" y="126" font-size="13" font-weight="700" letter-spacing="2.5" fill="#12263A">DONE FOR YOU</text>
+    <g font-family="Georgia, serif" font-size="25" font-weight="700" fill="#12263A">
+      <text x="86" y="222">Run the kit</text><text x="486" y="192">Plan review or sprint</text><text x="886" y="162">Managed project</text>
+    </g>
+    <g font-size="15" fill="#3C4A58">
+      <text x="86" y="254">Free on GitHub. Answer the questions,</text><text x="86" y="276">approve the deck, hand over the PDF.</text>
+      <text x="486" y="224">Felipe reviews your six documents with</text><text x="486" y="246">you, fixes the gaps, and can run the</text><text x="486" y="268">interviews with your team.</text>
+      <text x="886" y="194" fill="#12263A">Hand the project over. Have it planned,</text><text x="886" y="216" fill="#12263A">built and managed for you and your team.</text>
+    </g>
+    <g font-size="15" font-weight="700">
+      <text x="86" y="322" fill="#0E7C7B">npm install  →  /plan-project</text>
+      <text x="486" y="322" fill="#0E7C7B">Book a call → tidycal.com/felipesuarez</text>
+      <text x="886" y="322" fill="#12263A">Book a call → tidycal.com/felipesuarez</text>
+    </g>
+    </g>
+  </g>
+</svg>

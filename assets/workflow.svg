@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" role="img" aria-label="Workflow: six documents, then an HTML deck, then a PDF">
+  <rect width="1280" height="250" fill="#F7F2E8"/>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#0E7C7B"/></marker></defs>
+  <g font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="38" font-size="15" font-weight="700" letter-spacing="3" fill="#0E7C7B">HOW IT WORKS</text>
+    <g stroke="#0E7C7B" stroke-width="3" marker-end="url(#a)">
+      <line x1="150" y1="128" x2="168" y2="128"/><line x1="291" y1="128" x2="309" y2="128"/>
+      <line x1="432" y1="128" x2="450" y2="128"/><line x1="573" y1="128" x2="591" y2="128"/>
+      <line x1="714" y1="128" x2="732" y2="128"/><line x1="855" y1="128" x2="893" y2="128"/>
+      <line x1="1018" y1="128" x2="1056" y2="128"/>
+    </g>
+    <g fill="#12263A">
+      <rect x="30" y="80" width="118" height="96" rx="10"/><rect x="171" y="80" width="118" height="96" rx="10"/>
+      <rect x="312" y="80" width="118" height="96" rx="10"/><rect x="453" y="80" width="118" height="96" rx="10"/>
+      <rect x="594" y="80" width="118" height="96" rx="10"/><rect x="735" y="80" width="118" height="96" rx="10"/>
+    </g>
+    <rect x="896" y="80" width="120" height="96" rx="10" fill="#0E7C7B"/>
+    <rect x="1059" y="80" width="120" height="96" rx="10" fill="#F4B942"/>
+    <g fill="#F4B942" font-family="Georgia, serif" font-size="26" font-weight="700">
+      <text x="89" y="112">1</text><text x="230" y="112">2</text><text x="371" y="112">3</text>
+      <text x="512" y="112">4</text><text x="653" y="112">5</text><text x="794" y="112">6</text>
+    </g>
+    <g fill="#fff" font-size="13" font-weight="700">
+      <text x="89" y="142">What it</text><text x="89" y="159">does</text>
+      <text x="230" y="142">Tools it</text><text x="230" y="159">runs on</text>
+      <text x="371" y="142">App flow</text><text x="371" y="159">&amp; errors</text>
+      <text x="512" y="142">Look</text><text x="512" y="159">&amp; tone</text>
+      <text x="653" y="142">Where data</text><text x="653" y="159">lives</text>
+      <text x="794" y="142">Build order</text><text x="794" y="159">&amp; sign-offs</text>
+      <text x="956" y="115" font-size="15">HTML deck</text><text x="956" y="136" font-weight="400" font-size="12">you review it</text>
+    </g>
+    <text x="1119" y="115" font-size="15" font-weight="700" fill="#12263A">PDF</text>
+    <text x="1119" y="136" font-size="12" fill="#12263A">you approve it</text>
+    <text x="440" y="214" font-size="14" fill="#5B6B7A">Claude asks the questions, one at a time, and writes each document.</text>
+    <text x="1040" y="214" font-size="14" fill="#5B6B7A">Say "change Doc 2…" until it is right.</text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+# Keep the projects folder, ignore users' private project work
+projects/*
+!projects/.gitkeep
+
+# Generated example output
+examples/**/deck.html
+examples/**/*.pdf

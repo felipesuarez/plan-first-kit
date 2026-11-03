@@ -1,0 +1,12 @@
+{
+  "kitName": "Plan-First Kit",
+  "creator": "Felipe Suarez",
+  "website": "https://felipesuarez.com",
+  "bookingUrl": "https://tidycal.com/felipesuarez/30-minute-discovery",
+  "kitPageUrl": "https://by.felipesuarez.com/planfirst",
+  "tutorialUrl": "",
+  "repoUrl": "https://github.com/felipesuarez/plan-first-kit",
+  "footerText": "Planned with the Plan-First Kit by Felipe Suarez · felipesuarez.com",
+  "showServicesPage": true,
+  "_notes": "Fill in kitPageUrl (your email-capture subdomain), tutorialUrl (paid video tutorial) and repoUrl (GitHub). Empty values are simply left out of the deck and README prompts. Point bookingUrl at the specific TidyCal booking type that has your intake questions."
+}

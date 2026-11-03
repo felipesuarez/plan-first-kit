@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/*)",
+      "Bash(npm run *)",
+      "Bash(npm install)",
+      "Bash(npx playwright install chromium)",
+      "Bash(open projects/*)",
+      "Bash(xdg-open projects/*)",
+      "Bash(start projects/*)"
+    ]
+  }
+}
